@@ -1,5 +1,7 @@
 # Deploy and Host Documenso with Railway
 
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/documenso-v2-document-signing?referralCode=20H68q)
+
 Documenso is an open-source document signing platform: upload a PDF or Word file, place fields, send it to signers, and receive a digitally sealed PDF with a full audit trail. This community template runs Documenso v2 on Railway with Postgres, a Redis job queue, DOCX conversion and its own signing certificate.
 
 ## About Hosting Documenso
